@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 • :computer: Atualmente estou fazendo alguns trabalhos como programador freelancer <br>
 • :books: Estou aprendendo mais sobre javascript, por exemplo frameworks como Angular e biblioteca jQuery <br>
 • :v: Atualmente meu objetivo é conseguir me consolidar na área de programação, tenho me esforçado bastante para alcançar esse objetivo. 
-estou totalmente aberto a propostas e parcerias, espero que ter experiências incríveis e conhecimentos que nunca serão esquecidos <br>
+Estou totalmente aberto a propostas e parcerias, espero que ter experiências incríveis e conhecimentos que nunca serão esquecidos <br>
 
 <hr>
 <div align="center">
