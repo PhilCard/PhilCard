@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Olá, tudo bem ? 👋
 • :man: Meu nome é Felipe, tenho 26 anos, possuo formação técnica em TI <br>
-• :runner: Estou a procura de uma boa oportunidade para me inserir no mercado de programação <br>
+• :runner: Estou a procura de uma boa oportunidade para me consolidar no mercado de programação <br>
 • :computer: Atualmente estou fazendo alguns trabalhos como programador freelancer <br>
 • :books: Estou aprendendo mais sobre javascript, por exemplo frameworks como Angular e biblioteca jQuery <br>
 • :v: Atualmente meu objetivo é conseguir me consolidar na área de programação, tenho me esforçado bastante para alcançar esse objetivo. 
