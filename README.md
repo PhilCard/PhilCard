@@ -34,7 +34,7 @@ Estou totalmente aberto a propostas e parcerias, espero que ter experiências in
 </div>
 <hr>
     
-<h2> Tecnologias que utilizo nos projetos </h2>
+<h2> Tecnologias que utilizo atualmente nos meus projetos </h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Dev-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="Dev-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
@@ -45,4 +45,3 @@ Estou totalmente aberto a propostas e parcerias, espero que ter experiências in
   <img align="center" alt="Dev-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"/>
   <img align="center" alt="Dev-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 </div>
-<hr>
