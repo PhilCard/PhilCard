@@ -18,13 +18,11 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif">
 </div>
 
-### Olá, tudo bem ? 👋
-• :man: Meu nome é Felipe, tenho 26 anos, possuo formação técnica em TI <br>
-• :runner: Estou a procura de uma boa oportunidade para me consolidar no mercado de programação <br>
-• :computer: Atualmente estou fazendo alguns trabalhos como programador freelancer <br>
-• :books: Estou aprendendo mais sobre javascript, por exemplo frameworks como Angular e biblioteca jQuery <br>
-• :v: Atualmente meu objetivo é conseguir me consolidar na área de programação, tenho me esforçado bastante para alcançar esse objetivo. 
-Estou totalmente aberto a propostas e parcerias, espero que ter experiências incríveis e conhecimentos que nunca serão esquecidos <br>
+👋 Olá! Sou Felipe, Técnico em Informática com +4 anos de experiência em suporte N1, N2 e sistemas. Tenho conhecimento em desenvolvimento web com HTML, CSS, JavaScript, PHP, além de trabalhar com Bootstrap, Angular, jQuery e AJAX.
+
+🎯 Buscando transição para o desenvolvimento full stack e objetivo de me tornar um dev nômade, unindo tecnologia e liberdade geográfica.
+
+🚀 Apaixonado por aprender, resolver problemas com código e explorar novos universos — sejam digitais ou culturais.
 
 <hr>
 <div align="center">
