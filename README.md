@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+<div align="start">
   <img src="https://media1.tenor.com/m/5uJmEszssJwAAAAd/neo-is-sleeping-matrix.gif">
 </div>
 
