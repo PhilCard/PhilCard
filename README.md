@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif">
+  <img src="https://media1.tenor.com/m/5uJmEszssJwAAAAd/neo-is-sleeping-matrix.gif">
 </div>
 
 <br>
