@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <br>
 
-👋 Olá! Sou Felipe, Técnico em Informática com +4 anos de experiência em suporte N1, N2 e sistemas. Tenho conhecimento em desenvolvimento web com HTML, CSS, JavaScript, PHP, além de trabalhar com Bootstrap, Angular, jQuery e AJAX.
+👋 Olá, Tudo bem ? <br> Sou Felipe, Técnico em Informática com +4 anos de experiência em suporte N1, N2 e sistemas. Tenho conhecimento em desenvolvimento web com HTML, CSS, JavaScript, PHP, além de trabalhar com Bootstrap, Angular, jQuery e AJAX.
 
 🎯 Buscando transição para o desenvolvimento full stack e objetivo de me tornar um dev nômade, unindo tecnologia e liberdade geográfica.
 
