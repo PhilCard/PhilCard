@@ -15,7 +15,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilCard&layout=compact&langs_count=7&theme=dracula">
 </div>
 <hr>
-
+###
 <h2 align="center">My Skills</h2>
 
 <div align="center">
@@ -35,7 +35,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-
+###
 <h2 align="center">🌐 Connect with me</h2>
 
 <div align="center">
