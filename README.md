@@ -44,7 +44,7 @@
 
 <h2 align="center">🌐 Connect with me</h2>
 
-<div align="start">
+<div align="center">
   <img src="https://philcard.github.io/assets/img/sobremim.png">
 </div>
 
