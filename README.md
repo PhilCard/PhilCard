@@ -1,8 +1,3 @@
-<div align="start">
-  <img src="https://media1.tenor.com/m/5uJmEszssJwAAAAd/neo-is-sleeping-matrix.gif">
-</div>
-
-
 ###
 
 <h2 align="left">Hello World!!</h2>
