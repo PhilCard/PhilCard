@@ -1,32 +1,16 @@
-
-<!--
-**PhilCard/PhilCard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="start">
   <img src="https://media1.tenor.com/m/5uJmEszssJwAAAAd/neo-is-sleeping-matrix.gif">
 </div>
 
-<br>
+###
 
-👋 Olá, Tudo bem ? 
-<br> <br>
-Sou Felipe, Técnico em Informática com +4 anos de experiência em suporte N1, N2 e sistemas. Tenho conhecimento em desenvolvimento web com HTML, CSS, JavaScript, PHP, além de trabalhar com Bootstrap, Angular, jQuery e AJAX.
+<h2 align="left">Hello World!!</h2>
 
-🎯 Buscando transição para o desenvolvimento full stack e objetivo de me tornar um dev nômade, unindo tecnologia e liberdade geográfica.
+###
 
-🚀 Apaixonado por aprender, resolver problemas com código e explorar novos universos — sejam digitais ou culturais.
+<h4 align="left">👋 Olá, Tudo bem ?<br><br>Sou Felipe, Técnico em Informática com 5+ Anos de experiência em suporte N1, N2 e sistemas. Tenho conhecimento em desenvolvimento web com HTML, CSS, JavaScript, PHP, além de trabalhar com Bootstrap, NodeJS, jQuery e AJAX.<br><br>🎯 Buscando transição para o desenvolvimento full stack e objetivo de me tornar um dev nômade, unindo tecnologia e liberdade geográfica.<br><br>🚀 Apaixonado por aprender, resolver problemas com código e explorar novos universos — sejam digitais ou culturais.</h4>
+
+###
 
 <hr>
 <div align="center">
@@ -35,6 +19,23 @@ Sou Felipe, Técnico em Informática com +4 anos de experiência em suporte N1, 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilCard&layout=compact&langs_count=7&theme=dracula">
 </div>
 <hr>
-    
-🚀 Tecnologias que utilizo
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/> </p>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
