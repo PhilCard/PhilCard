@@ -40,7 +40,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-<hr>
 
 <h2 align="center">🌐 Connect with me</h2>
 
