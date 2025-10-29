@@ -49,11 +49,10 @@
 ###
 <h2 align="center"> 🌐 Connect with me</h2>
 ###
-<div align="center" style="gap:10px;">
+<div align="center">
   <a href="https://www.linkedin.com/in/felipe-alves-a54642184" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="https://www.instagram.com/felipe_card28" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
