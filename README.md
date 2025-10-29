@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="center">My Skills</h2>
+<h2 align="center">Skills</h2>
 
 ###
 
@@ -43,10 +43,13 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhilCard/PhilCard/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PhilCard/PhilCard/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PhilCard/PhilCard/output/pacman-contribution-graph.svg">
-</picture>
+<h2 align="center">Social Media</h2>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
 
 ###
