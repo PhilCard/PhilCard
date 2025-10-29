@@ -36,9 +36,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
+
 <h2 align="center">🌐 Connect with me</h2>
-###
+
 
 <div align="center">
   <img src="https://philcard.github.io/assets/img/sobremim.png" height="250" width="250" alt="myprofile">
