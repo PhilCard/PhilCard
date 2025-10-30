@@ -44,7 +44,17 @@
   <img src="https://philcard.github.io/assets/img/sobremim.png" height="250" width="250" alt="myprofile">
 </div>
 
-<div align="center"><a href="https://www.linkedin.com/in/felipe-alves-a54642184" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/felipe_card28" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a></div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/felipe-alves-a54642184" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/felipe_card28" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discordapp.com/users/yashy26" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</div>
 
 
 
